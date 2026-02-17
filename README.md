@@ -60,9 +60,3 @@ PID    PROCESS  USER  FD  TYPE / PATH
 
 ---
 
-## Contributing
-
-Pull requests welcome. Each script should:
-- Use only the Python standard library
-- Read from `/proc` or other kernel interfaces directly
-- Handle `PermissionError` and race conditions gracefully (processes can disappear mid-scan)
