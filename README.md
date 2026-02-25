@@ -1,7 +1,7 @@
 # 🔍 Linux Forensics
 
 > A growing collection of Python scripts for Linux process and system forensics.
-> No external dependencies — everything reads directly from the kernel via `/proc`.
+
 
 ---
 
