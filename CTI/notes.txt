@@ -1,0 +1,8 @@
+- Threat-Informed intelligence -> Threat Hunting -> Detection Engineering
+Linux Rootkits, Webshells. 
+Start with hypothesis, move onto scoping and infrastructure mapping. Then move to baseline traffic; threat hunt; Detection Engineering if possible. 
+
+
+
+Detection Engineering ideas:
+Identify what validation can't really validate, i.e. (Service creation and scheduled tasks)
