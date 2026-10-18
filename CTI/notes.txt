@@ -5,4 +5,4 @@ Start with hypothesis, move onto scoping and infrastructure mapping. Then move t
 
 
 Detection Engineering ideas:
-Identify what validation can't really validate, i.e. (Service creation and scheduled tasks)
+Identify what validation can't really validate, i.e. (Service creation and scheduled tasks). Read Red Canary detection report
