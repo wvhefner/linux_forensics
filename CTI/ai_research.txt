@@ -1,1 +1,3 @@
 https://www.offensive.agency/agents
+
+https://www.edr-telemetry.com/windows
